@@ -30,7 +30,7 @@ Output:
 Date:2020-11-13
 Type:City(Pune, India)
 The Coolest hours(hmm) are: 400,500 with minimum temperature in celcius:19
------------------------------------------------------
+
 2. 
 
 curl -X GET \
