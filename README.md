@@ -2,7 +2,7 @@ Technology Stack :
 
 1. Java 8
 2. Spring boot
-3. Junit,Mokito
+3. Junit,Mockito
 4. JPA(Hibernate)
 5. Swagger
 
