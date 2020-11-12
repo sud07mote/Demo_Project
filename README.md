@@ -5,9 +5,10 @@ Technology Stack :
 3. Junit,Mokito
 4. JPA(Hibernate)
 5. Swagger
-\n==================================================
+
+
 Swagger URL: http://localhost:8087/swagger-ui.html#
-==================================================
+
 METHOD : 
 GET: http://localhost:8087/api/v1/weather/search?zipCode=90201
 Input Param:
@@ -17,7 +18,7 @@ OutPut:
 Date:2020-11-13
 Type:City(Pune, India)
 The Coolest hours(hmm) are: 400,500 with minimum temperature in celcius:19
-==================================================
+
 Example:
 1. 
 curl -X GET \
@@ -41,6 +42,6 @@ Output:
 Date:2020-11-13
 Type:Zipcode(90201)
 The Coolest hours(hmm) are: 2300 with minimum temperature in celcius:11  
-==================================================
+
 
 
